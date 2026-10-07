@@ -1,4 +1,4 @@
-# Build your own LinkedIn competitor-ad tracker with Claude Code.
+# Build your own LinkedIn competitor-ad tracker with Claude Code
 
 This guide builds a Chrome extension that quietly records every competitor ad you browse in the
 LinkedIn Ad Library, then uses an AI model to tag each one. You get one spreadsheet row per ad, covering
